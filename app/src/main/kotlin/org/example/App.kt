@@ -12,4 +12,9 @@ class App {
 
 fun main() {
     println(App().greeting)
+    var numero=39
+    val nombre="juan"
+    println(nombre)
+    println(numero)
+
 }
